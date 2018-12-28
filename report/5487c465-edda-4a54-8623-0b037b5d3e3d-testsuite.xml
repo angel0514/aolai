@@ -1,0 +1,66 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545998635540" stop="1545998759369">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545998635540" status="passed" stop="1545998677427">
+      <name>TestLogin.test_login[ 13488834010-159357li-1-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8176-MainThread"/>
+        <label name="host" value="zxl-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545998677429" status="passed" stop="1545998694321">
+      <name>TestLogin.test_login[13488834010-99966533-0-\u767b\u5f55\u5bc6\u7801-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8176-MainThread"/>
+        <label name="host" value="zxl-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545998694325" status="passed" stop="1545998711557">
+      <name>TestLogin.test_login[1111\u4e2d\u56fd-159357li-0-\u4e0d\u5b58\u5728-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8176-MainThread"/>
+        <label name="host" value="zxl-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545998711560" status="passed" stop="1545998735455">
+      <name>TestLogin.test_login[13488834010 -159357li-1-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8176-MainThread"/>
+        <label name="host" value="zxl-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1545998735457" status="passed" stop="1545998759369">
+      <name>TestLogin.test_login[13488834010-159357li-1-None-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8176-MainThread"/>
+        <label name="host" value="zxl-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
